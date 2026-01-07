@@ -14,21 +14,21 @@ Elle permet de :
 
 ## Structure du projet
 
-src/
-├── components/
-│ └── Stagiaire/
-│ ├── Stagiaire.js # Liste des stagiaires
-│ ├── Details.js # Détails d’un stagiaire
-│ ├── Add.js # Formulaire d’ajout
-│
-├── Header/
-│ └── Header.js 
-│
-├── redux/
-│ └── redux.js # Actions et reducers
-│
-├── store.js # Configuration du store Redux
-├── App.js # Composant principal et routes
+      src/
+      ├── components/
+      │ └── Stagiaire/
+      │ ├── Stagiaire.js # Liste des stagiaires
+      │ ├── Details.js # Détails d’un stagiaire
+      │ ├── Add.js # Formulaire d’ajout
+      │
+      ├── Header/
+      │ └── Header.js 
+      │
+      ├── redux/
+      │ └── redux.js # Actions et reducers
+      │
+      ├── store.js # Configuration du store Redux
+      ├── App.js # Composant principal et routes
 
 ---
 
